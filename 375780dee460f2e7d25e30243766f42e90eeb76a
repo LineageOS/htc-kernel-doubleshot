@@ -1,0 +1,11 @@
+Change-Id: I375780dee460f2e7d25e30243766f42e90eeb76a
+Code-Review+1: Kevin Bruckert <agrabren@gmail.com>
+Code-Review+1: Jason Parker <kornyone@gmail.com>
+Verified+1: Jason Parker <kornyone@gmail.com>
+Code-Review+2: Pál Zoltán Illés <illespal@gmail.com>
+Verified+1: Pál Zoltán Illés <illespal@gmail.com>
+Submitted-by: Pál Zoltán Illés <illespal@gmail.com>
+Submitted-at: Tue, 24 Jul 2012 01:34:47 +0400
+Reviewed-on: http://review.cyanogenmod.com/19961
+Project: CyanogenMod/htc-kernel-doubleshot
+Branch: refs/heads/aosp
